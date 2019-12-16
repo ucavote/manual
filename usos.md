@@ -105,7 +105,6 @@ sus distintos iconos.
 
 ![alt text](imagenes_manual/Diapositiva21.PNG)
 
-![alt text](imagenes_manual/Diapositiva22.PNG)
 
 ## Gestionar una Votación
 En caso de que sea usted un secretario de mesa, además de las funcionalidades anteriores,
