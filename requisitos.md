@@ -8,3 +8,5 @@ ordenadores de torre o mediante dispositivos portátiles como Smartphones o tabl
 
 Una vez se cumplan estos sencillos requisitos, deberá acceder a la dirección web designada
 para la aplicación e iniciar sesión.
+
+<a href="https://ucavote.000webhostapp.com/"> Volver a UCAVOTE</a>
