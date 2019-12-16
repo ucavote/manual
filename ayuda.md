@@ -4,3 +4,5 @@ principal, al que podrá acceder haciendo click en el icono de la interrogación
 
 
 ![](imagenes_manual/ayuda.jpeg)
+
+<a href="https://ucavote.000webhostapp.com/"> Volver a UCAVOTE</a>
