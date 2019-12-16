@@ -141,5 +141,4 @@ usted quien debe decidir la hora y fecha para el transcurso de la votación**.
 
 Una vez hecho esto, la votación estará registrada en el sistema.
 
-[Link](https://ejemplo.com/ "Título opcional del enlace")
-Hola
+[Volver a UCAVOTE](https://ucavote.000webhostapp.com/ "UCAVote")
