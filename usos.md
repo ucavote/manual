@@ -11,7 +11,7 @@ Una vez se loguee en el sistema como usuario, verá automáticamente una lista c
 votaciones actualmente disponibles en las que puede votar. En caso de estar en otra vista, podrá
 acceder a dicha función desde el primer icono del sidebar izquierdo, el del sobre.
 
-![alt text](imagenes_manual/Diapositiva2.PNG)
+![alt text](imagenes_manual/Participar en una Votacion/Votar 1.png)
 
 ![alt text](imagenes_manual/Diapositiva3.PNG)
 
