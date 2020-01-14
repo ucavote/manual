@@ -83,7 +83,9 @@ menú de gestión de votaciones. Podrá hacerlo de dos formas distintas:
 
 2. Haciendo click en el icono de los cuatro sobres (Para usted, 4 icono en orden
 descendente) en la sidebar izquierda.
+
 ![alt text](imagenes_manual/GestionarVotacion/Gestionar1.png)  
+
 ![alt text](imagenes_manual/GestionarVotacion/Gestionar2.png)  
  
 
@@ -95,6 +97,7 @@ información para conocer la función de cada campo.
 Cuando haya terminado, haga click en Guardar.
 
 ![alt text](imagenes_manual/GestionarVotacion/Gestionar3.png)  
+
 ![alt text](imagenes_manual/GestionarVotacion/Gestionar4.png)  
 
 Una vez hecho esto, la votación estará registrada en el sistema.
@@ -105,8 +108,9 @@ validada antes de que los resultados se hagan públicos. Si usted ha sido elegid
 mesa o representante de uno de los electos en una votación compleja, podrá validar dicha
 votación desde cualquier vista de la página desde el icono de la caja marcada (El quinto en orden
 descendente) de la sidebar izquierda.
-
+ 
 ![alt text](imagenes_manual/ValidarVotacion/Validar1.png)  
+
 ![alt text](imagenes_manual/ValidarVotacion/Validar2.png)  
 
 A continuación, se le mostrarán los resultados de la encuesta, y podrá elegir si los considera
