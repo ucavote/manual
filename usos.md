@@ -12,6 +12,7 @@ votaciones actualmente disponibles en las que puede votar. En caso de estar en o
 acceder a dicha función desde el primer icono del sidebar izquierdo, el del sobre.
 
 ![alt text](imagenes_manual/Participar en una Votacion/Votar 1.png)
+hola
 
 ![alt text](imagenes_manual/Diapositiva3.PNG)
 
