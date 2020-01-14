@@ -11,8 +11,10 @@ Una vez se loguee en el sistema como usuario, verá automáticamente una lista c
 votaciones actualmente disponibles en las que puede votar. En caso de estar en otra vista, podrá
 acceder a dicha función desde el primer icono del sidebar izquierdo, el del sobre.
 
-![alt text](imagenes_manual/ParticiparVotacion/Votar1.png)
-![alt text](imagenes_manual/ParticiparVotacion/Votar2.png)
+![alt text](imagenes_manual/ParticiparVotacion/Votar1.png)  
+
+![alt text](imagenes_manual/ParticiparVotacion/Votar2.png)  
+
 ![alt text](imagenes_manual/ParticiparVotacion/Votar3.png)
 
 
@@ -26,8 +28,10 @@ En caso de querer proponer una votación en el sistema, puede acceder en cualqui
 aplicación a través del icono del sobre azul con un símbolo más en su esquina superior izquierda
 (El segundo en orden descendente) en la sidebar izquierda.
 
-![alt text](imagenes_manual/ProponerVotacion/Proponer1.png)
-![alt text](imagenes_manual/ProponerVotacion/Proponer2.png)
+![alt text](imagenes_manual/ProponerVotacion/Proponer1.png)  
+
+![alt text](imagenes_manual/ProponerVotacion/Proponer2.png)  
+
 ![alt text](imagenes_manual/ProponerVotacion/Proponer3.png)
 
 Las votaciones pueden ser simples, es decir, las opciones se generan automáticamente (si y no) o
@@ -36,10 +40,13 @@ de secretarios, podrá rellenar campos relacionados con la gestión de la encues
 ser las ponderaciones, el quorum o las fechas de fin e inicio. Pase el ratón sobre el icono de
 información para conocer la función de cada campo.
 
-![alt text](imagenes_manual/ProponerVotacion/Proponer4.png)
-![alt text](imagenes_manual/ProponerVotacion/Proponer5.png)
-![alt text](imagenes_manual/ProponerVotacion/Proponer6.png)
-![alt text](imagenes_manual/ProponerVotacion/Proponer7.png)
+![alt text](imagenes_manual/ProponerVotacion/Proponer4.png)  
+
+![alt text](imagenes_manual/ProponerVotacion/Proponer5.png)  
+
+![alt text](imagenes_manual/ProponerVotacion/Proponer6.png)  
+
+![alt text](imagenes_manual/ProponerVotacion/Proponer7.png)  
 
 Cuando haya terminado de crear su encuesta, haga click en Guardar. Si usted no tiene permiso de
 secretarios, tendrá que esperar a que un secretario acepte su propuesta.
@@ -50,22 +57,22 @@ Puede usted acceder a los resultados de una votación una vez esta haya finaliza
 puede acceder a los resultados desde cualquier vista de la página desde el icono del gráfico
 circular (El tercero en orden descendente) de la sidebar izquierda.
 
-![alt text](imagenes_manual/VerResultados/VerResultados1.png)
+![alt text](imagenes_manual/VerResultados/VerResultados1.png)  
 
 
 A continuación, deberá seleccionar la votación cuyos resultados desee ver desde el menú que se le
 mostrará en pantalla
 
-![alt text](imagenes_manual/VerResultados/VerResultados2.png)
+![alt text](imagenes_manual/VerResultados/VerResultados2.png)  
 
 Ahora, dispondrá de una tabla con los resultados de la votación. En caso de que la tabla no sea de
 su agrado, dispondrá en la parte izquierda de la pantalla los distintos modos de visualización de
 resultados implementados en la aplicación. Estos son, además de la tabla una gráfica de barras y
 un gráfico circular. Podrá alternar entre los distintos modos haciendo click en sus distintos iconos.
 
-![alt text](imagenes_manual/VerResultados/VerResultados3.png)
-![alt text](imagenes_manual/VerResultados/VerResultados4.png)
-![alt text](imagenes_manual/VerResultados/VerResultados5.png)
+![alt text](imagenes_manual/VerResultados/VerResultados3.png)  
+![alt text](imagenes_manual/VerResultados/VerResultados4.png)  
+![alt text](imagenes_manual/VerResultados/VerResultados5.png)  
 
 ## Gestionar una Votación
 En caso de que sea usted un secretario de mesa, además de las funcionalidades anteriores,
@@ -76,9 +83,9 @@ menú de gestión de votaciones. Podrá hacerlo de dos formas distintas:
 
 2. Haciendo click en el icono de los cuatro sobres (Para usted, 4 icono en orden
 descendente) en la sidebar izquierda.
-![alt text](imagenes_manual/GestionarVotacion/Gestionar1.png)
-![alt text](imagenes_manual/GestionarVotacion/Gestionar2png)
-
+![alt text](imagenes_manual/GestionarVotacion/Gestionar1.png)  
+![alt text](imagenes_manual/GestionarVotacion/Gestionar2.png)  
+ 
 
 Una vez hecho esto, verá una lista de votaciones por aprobar. Haciendo click en cualquiera de
 ellas, podrá ver de forma detallada las opciones solicitadas por su autor, título, opciones, censo,
@@ -87,8 +94,8 @@ tales como la fecha y hora de inicio, el quorum, ponderaciones… Pase el ratón
 información para conocer la función de cada campo.
 Cuando haya terminado, haga click en Guardar.
 
-![alt text](imagenes_manual/GestionarVotacion/Gestionar3png)
-![alt text](imagenes_manual/GestionarVotacion/Gestionar4png)
+![alt text](imagenes_manual/GestionarVotacion/Gestionar3.png)  
+![alt text](imagenes_manual/GestionarVotacion/Gestionar4.png)  
 
 Una vez hecho esto, la votación estará registrada en el sistema.
 
@@ -99,14 +106,14 @@ mesa o representante de uno de los electos en una votación compleja, podrá val
 votación desde cualquier vista de la página desde el icono de la caja marcada (El quinto en orden
 descendente) de la sidebar izquierda.
 
-![alt text](imagenes_manual/ValidarVotacion/Validar1.png)
-![alt text](imagenes_manual/ValidarVotacion/Validar2.png)
+![alt text](imagenes_manual/ValidarVotacion/Validar1.png)  
+![alt text](imagenes_manual/ValidarVotacion/Validar2.png)  
 
 A continuación, se le mostrarán los resultados de la encuesta, y podrá elegir si los considera
 válidos o no. Guarde su elección haciendo click en Guardar. Si la ha validado, los resultados se
 harán públicos para todos los usuarios
 
-![alt text](imagenes_manual/ValidarVotacion/Validar3.png)
+![alt text](imagenes_manual/ValidarVotacion/Validar3.png)  
 
 ## Votación anticipada
 En caso de que una votación haya sido determinada como anticipada, podrá solicitar votar en ella
@@ -118,8 +125,10 @@ Si es usuario, podrá enviar una solicitud para votar de forma anticipada. Para 
 en la que desea votar anticipadamente e introduzca el motivo. Acto seguido, haga click en guardar
 para enviar tu solicitud a los secretarios.
 
-![alt text](imagenes_manual/VotacionAnticipada/Anticipada2.png)
-![alt text](imagenes_manual/VotacionAnticipada/Anticipada3.png)
+![alt text](imagenes_manual/VotacionAnticipada/Anticipada2.png)  
+
+![alt text](imagenes_manual/VotacionAnticipada/Anticipada3.png)  
+
 
 
 Si es secretario, podrá aceptar o denegar dichas solicitudes. Para ello, elija una votación y,
@@ -127,9 +136,12 @@ después, una solicitud. Dentro de la misma, lea el motivo, seleccione Aceptar o
 criterio y haga click en Guardar. Una vez un secretario haya validado la solicitud de un usuario,
 este podrá votar dentro del plazo establecido para la votación anticipada, desde el botón de Votar.
 
-![alt text](imagenes_manual/VotacionAnticipada/Anticipada4.png)
-![alt text](imagenes_manual/VotacionAnticipada/Anticipada5.png)
-![alt text](imagenes_manual/VotacionAnticipada/Anticipada6.png)
+![alt text](imagenes_manual/VotacionAnticipada/Anticipada4.png)  
+
+![alt text](imagenes_manual/VotacionAnticipada/Anticipada5.png)  
+
+![alt text](imagenes_manual/VotacionAnticipada/Anticipada6.png)  
+
 
 ## Modificar plazos
 Si usted es secretario y no está conforme con los plazos de voto establecidos para una votación,
@@ -137,12 +149,14 @@ puede modificarlos desde uno de estos dos caminos:
 1. Puede acceder haciendo click en “MODIFICAR PLAZOS” en la página principal.
 2. Puede acceder desde cualquier vista de la página desde el icono del lápiz (El quinto en
 orden descendente) de la sidebar izquierda.
+
 ![alt text](imagenes_manual/ModificarPlazos/Modificar1.png)
 
 A continuación, seleccione la votación en la que quiere cambiar los plazos, introduzca los nuevos
 plazos y haga click en Guardar para registrar los cambios.
 
-![alt text](imagenes_manual/ModificarPlazos/Modificar2.png)
+![alt text](imagenes_manual/ModificarPlazos/Modificar2.png)  
+
 ![alt text](imagenes_manual/ModificarPlazos/Modificar3.png)
 
 <a href="https://ucavote.000webhostapp.com/"> Volver a UCAVOTE</a>
