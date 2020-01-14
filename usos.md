@@ -82,4 +82,35 @@ Cuando haya terminado, haga click en Guardar.
 
 Una vez hecho esto, la votación estará registrada en el sistema.
 
+## Validar una Votación
+En caso de que una votación haya sido creada por un secretario, es necesario que esta sea
+validada antes de que los resultados se hagan públicos. Si usted ha sido elegido presidente de
+mesa o representante de uno de los electos en una votación compleja, podrá validar dicha
+votación desde cualquier vista de la página desde el icono de la caja marcada (El quinto en orden
+descendente) de la sidebar izquierda.
+A continuación, se le mostrarán los resultados de la encuesta, y podrá elegir si los considera
+válidos o no. Guarde su elección haciendo click en Guardar. Si la ha validado, los resultados se
+harán públicos para todos los usuarios
+
+## Votación anticipada
+En caso de que una votación haya sido determinada como anticipada, podrá solicitar votar en ella
+antes de que se abra su plazo real. Puede acceder a esta opción desde cualquier vista de la página
+desde el icono del reloj (El cuarto en orden descendente) de la sidebar izquierda.
+Si es usuario, podrá enviar una solicitud para votar de forma anticipada. Para ello, elija la votación
+en la que desea votar anticipadamente e introduzca el motivo. Acto seguido, haga click en guardar
+para enviar tu solicitud a los secretarios.
+Si es secretario, podrá aceptar o denegar dichas solicitudes. Para ello, elija una votación y,
+después, una solicitud. Dentro de la misma, lea el motivo, seleccione Aceptar o Rechazar según su
+criterio y haga click en Guardar. Una vez un secretario haya validado la solicitud de un usuario,
+este podrá votar dentro del plazo establecido para la votación anticipada, desde el botón de Votar.
+
+## Modificar plazos
+Si usted es secretario y no está conforme con los plazos de voto establecidos para una votación,
+puede modificarlos desde uno de estos dos caminos:
+1. Puede acceder haciendo click en “MODIFICAR PLAZOS” en la página principal.
+2. Puede acceder desde cualquier vista de la página desde el icono del lápiz (El quinto en
+orden descendente) de la sidebar izquierda.
+A continuación, seleccione la votación en la que quiere cambiar los plazos, introduzca los nuevos
+plazos y haga click en Guardar para registrar los cambios.
+
 <a href="https://ucavote.000webhostapp.com/"> Volver a UCAVOTE</a>
