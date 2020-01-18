@@ -3,6 +3,6 @@ Recuerde que en caso de necesitar ayuda extra, cuenta con el menú de ayuda en l
 principal, al que podrá acceder haciendo click en el icono de la interrogación.
 
 
-![](imagenes_manual/ayuda.jpeg)
+![](imagenes_manual/Imagen29.png)
 
 <a href="https://ucavote.000webhostapp.com/"> Volver a UCAVOTE</a>
