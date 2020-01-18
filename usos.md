@@ -20,24 +20,24 @@ Recuerde que excederse del máximo de opciones o no llegar al mínimo de opcione
 ## Proponer una Votación
 Si quiere proponer una votación en el sistema, puede seleccionar el icono del sobre con un símbolo de suma en la barra lateral izquierda. Cuando lo haga, se le mostrará un menú con todas las votaciones que usted ha propuesto y si han sido o no aceptadas por un Secretario. Haga clic en Crear nueva votación, en la parte izquierda de la página, para poder proponer una nueva votación.
 
-![alt text](imagenes_manual/ProponerVotacion/Proponer1.png)  
+![alt text](imagenes_manual/ProponerVotacion/Imagen5.png)  
 
 Además, si usted es Secretario, también puede acceder a esta vista desde el menú principal, haciendo clic en el botón correspondiente.
 
-![alt text](imagenes_manual/ProponerVotacion/Proponer2.png)  
+![alt text](imagenes_manual/ProponerVotacion/Imagen6.png)  
 
 UCAVote divide las votaciones en simples y complejas. Por defecto, la opción marcada es Simple, que consta de los siguientes campos:
 
-![alt text](imagenes_manual/ProponerVotacion/Proponer3.png)
+![alt text](imagenes_manual/ProponerVotacion/Imagen7.png)
 
 Las opciones en el caso de una votación simple siempre serán Si y No, dando posibilidad a voto nulo o en blanco. Sin embargo, al seleccionar votación compleja, podremos añadir más opciones, recogidas en una lista modificable por los Secretarios, a nuestra encuesta.
 
-foto
+![alt text](imagenes_manual/ProponerVotacion/Imagen8.png)
 
 Cuando haya rellenado todos los campos, haga clic en Guardar. Tenga en cuenta que su propuesta debe ser aceptada por un Secretario.
 Si usted es Secretario, sin embargo, podrá rellenar campos adicionales no disponibles para los Usuarios a la hora de proponer una votación
 
-foto
+![alt text](imagenes_manual/ProponerVotacion/Imagen9.png)
 
 -	Quorum: Mínimo de votos para que la votación se considere válida
 -	Modo de votación:
@@ -46,11 +46,11 @@ o	Anticipada: El usuario puede inscribirse en la votación con antelación.
 o	Rectificable: El usuario puede modificar su voto
 Además, podrá definir los plazos de inicio y fin de la votación. Si la ha marcado como Anticipada, puede definir los plazos de inscripción anticipada a la misma y, si ha elegido qué grupos pueden votar, también podrá decidir las ponderaciones de los mismos sobre el voto.
 
-foto
+![alt text](imagenes_manual/ProponerVotacion/Imagen10.png)
 
 Si es Secretario y elige votación compleja, también se habilitarán más campos:
 
-foto
+![alt text](imagenes_manual/ProponerVotacion/Imagen11.png)
 
 Además de elegir entre las opciones de la lista como los Usuarios, también podrá definir opciones nuevas. Finalmente, debe elegir a un representante (usuario del sistema) por cada opción. Cuando haya terminado, haga click en Guardar y, si es Secretario, su votación será automáticamente aceptada.
 
