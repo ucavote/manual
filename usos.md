@@ -5,15 +5,15 @@ La aplicación divide a los usuarios dados de alta en Usuarios y Secretarios, lo
 ## Participar en una Votación
 Si usted es Usuario, nada más loguearse en el sistema, verá una pantalla donde puede seleccionar una de las votaciones actualmente abiertas para participar en la misma.
 
-![alt text](imagenes_manual/ParticiparVotacion/Votar1.png) 
+![alt text](imagenes_manual/ParticiparVotacion/Imagen1.png) 
 
 Además, desde cualquier vista de la aplicación, podrá mostrar el menú desplegable de la izquierda y hacer click en el icono del sobre (el primero desde arriba) para acceder a esta lista de votaciones actualmente disponible.
 
-![alt text](imagenes_manual/ParticiparVotacion/Votar2.png) 
+![alt text](imagenes_manual/ParticiparVotacion/Imagen2.png) 
 
 Recuerde que el sistema sólo le mostrará las votaciones en las que usted puede votar, y que los Secretarios no tienen acceso a esta función. Cuando haya elegido la votación en la que desea participar, simplemente marque la o las opciones que vea convenientes bajo su criterio (el número mínimo y máximo se especifica en la parte superior de la página) y haga click en Enviar votación
 
-![alt text](imagenes_manual/ParticiparVotacion/Votar3.png)
+![alt text](imagenes_manual/ParticiparVotacion/Imagen4.png)
 
 Recuerde que excederse del máximo de opciones o no llegar al mínimo de opciones se considera voto nulo, y si no marca ninguna opción, se considera voto en blanco.
 
