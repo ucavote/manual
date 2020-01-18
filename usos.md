@@ -58,12 +58,12 @@ Además de elegir entre las opciones de la lista como los Usuarios, también pod
 ## Ver Resultados de una Votación
 Tanto si es Usuario como Secretario, puede conocer los resultados de una votación siempre y cuando esté ya finalizada. Para ello, haga clic desde cualquier vista en el botón del gráfico circular en la barra desplegable izquierda (el segundo desde arriba) para acceder a un listado con todas las votaciones ya finalizadas.
 
-![alt text](imagenes_manual/VerResultados/Imagen12.png)  
+![](imagenes_manual/VerResultados/Imagen12.png)  
 
 A continuación, haga click en la votación que quiera conocer sus resultados, pero recuerde que no tendrá acceso a los resultados si esta no está validada.
 Además, si usted es Secretario, también podrá acceder a la misma vista haciendo click en el botón de Ver Resultados desde el menú principal de la aplicación.
 
-![alt text](imagenes_manual/VerResultados/Imagen13.png)  
+![](imagenes_manual/VerResultados/Imagen13.png)  
 
 Una vez tenga delante los resultados de una votación, los verá en forma de tabla, pero también puede cambiar a un gráfico de barras o circular usando los tres botones de la barra de arriba.
 
@@ -87,9 +87,9 @@ Se muestran todos los datos introducidos por el usuario para que usted pueda dec
 Estos campos son idénticos a los que, como Secretario, puede rellenar mientras crea una votación:
 -	Quorum: Mínimo de votos para que la votación se considere válida
 -	Modo de votación:
-o	Presencial: La votación se hace cuando los votantes estén presentes
-o	Anticipada: El usuario puede inscribirse en la votación con antelación.
-o	Rectificable: El usuario puede modificar su voto
+    - Presencial: La votación se hace cuando los votantes estén presentes
+    - Anticipada: El usuario puede inscribirse en la votación con antelación.
+    - Rectificable: El usuario puede modificar su voto
 Además, podrá definir los plazos de inicio y fin de la votación. Si la ha marcado como Anticipada, puede definir los plazos de inscripción anticipada a la misma y, si el Usuario ha elegido qué grupos pueden votar, también podrá decidir las ponderaciones de los mismos sobre el voto.
 Cuando haya finalizado de rellenar los campos, haga clic en Guardar.
 
