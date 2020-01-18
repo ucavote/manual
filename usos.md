@@ -41,9 +41,9 @@ Si usted es Secretario, sin embargo, podrá rellenar campos adicionales no dispo
 
 -	Quorum: Mínimo de votos para que la votación se considere válida
 -	Modo de votación:
-o	Presencial: La votación se hace cuando los votantes estén presentes
-o	Anticipada: El usuario puede inscribirse en la votación con antelación.
-o	Rectificable: El usuario puede modificar su voto
+    -	Presencial: La votación se hace cuando los votantes estén presentes
+    -	Anticipada: El usuario puede inscribirse en la votación con antelación.
+    -	Rectificable: El usuario puede modificar su voto
 Además, podrá definir los plazos de inicio y fin de la votación. Si la ha marcado como Anticipada, puede definir los plazos de inscripción anticipada a la misma y, si ha elegido qué grupos pueden votar, también podrá decidir las ponderaciones de los mismos sobre el voto.
 
 ![alt text](imagenes_manual/ProponerVotacion/Imagen10.png)
